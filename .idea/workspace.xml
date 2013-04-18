@@ -24,20 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db0f4ab3-d74e-47e9-bd78-267948159c09" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\cjh\android\prj\BibleAmsong\HanbitAndroidApp.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\cjh\android\prj\BibleAmsong\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/sdhanbit/android/StarterActivity.java" afterPath="$PROJECT_DIR$/src/org/sdhanbit/android/StarterActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/StarterApp.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/StarterApp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/home.xml" afterPath="$PROJECT_DIR$/res/layout/home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/sdhanbit/android/page_jin_graphic_test.java" afterPath="$PROJECT_DIR$/src/org/sdhanbit/android/page_jin_graphic_test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/sdhanbit/android/page_jintest.java" afterPath="$PROJECT_DIR$/src/org/sdhanbit/android/page_jintest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/page_jintest.xml" afterPath="$PROJECT_DIR$/res/layout/page_jintest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test.iml" afterPath="$PROJECT_DIR$/test/test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="HanbitAndroidApp.iws" />
     <ignored path=".idea/workspace.xml" />
