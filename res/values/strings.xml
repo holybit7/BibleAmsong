@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">한빛성경암송</string>
+
+    <string name="main_title">SAN DIEGO HANBIT CHURCH</string>
+
+    <string name="t_mem">암송모드</string>
+    <string name="t_hint">힌트</string>
+    <string name="t_answer">전체보기</string>
+    <string name="t_home">Home</string>
+    <string name="t_rand">모의시험</string>
+    <string name="t_day">오늘의 성경구절</string>
+
+    <string name="t_A">A. 새로운 삶</string>
+    <string name="t_B">B. 그리스도를 전파함</string>
+    <string name="t_C">C. 하나님을 의뢰함</string>
+    <string name="t_D">D. 그리스도 제자의 자격</string>
+    <string name="t_E">E. 그리스도를 닮아 감</string>
+    <string name="t_goA">A</string>
+    <string name="t_goB">B</string>
+    <string name="t_goC">C</string>
+    <string name="t_goD">D</string>
+    <string name="t_goE">E</string>
+
+    <string name="t_Aa">중심되신 그리스도</string>
+    <string name="t_A1t">고린도후서 5:17</string>
+    <string name="t_A1c">그런즉 누구든지 그리스도 안에 있으면 새로운 피조물이라. 이전 것은 지나갔으니, 보라 새것이 되었도다.</string>
+    <string name="t_A1h">그ㅁㅁ 누ㅁㅁㅁ 그ㅁㅁㅁ 안ㅁ 있ㅁㅁ 새ㅁㅁ 피ㅁㅁㅁㅁ. 이ㅁ 것ㅁ 지ㅁㅁㅁㅁ, 보ㅁ 새ㅁㅁ 되ㅁㅁㅁ.</string>
+    <string name="t_A1z">ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_A2t">갈라디아서 2:20</string>
+    <string name="t_A2c">내가 그리스도와 함께 십자가에 못 박혔나니, 그런즉 이제는 내가 산것이 아니요 오직 내안에 그리스도께서 사신 것이라. 이제 내가 육체 가운데 사는 것은 나를 사랑하사 나를 위하여 자기 몸을 버리신 하나님의 아들을 믿는 믿음안에서 사는 것이라.</string>
+    <string name="t_A2h">내ㅁ 그ㅁㅁㅁㅁ 함ㅁ 십ㅁㅁㅁ 못 박ㅁㅁㅁ, 그ㅁㅁ 이ㅁㅁ 내ㅁ 산ㅁㅁ 아ㅁㅁ 오ㅁ 내ㅁㅁ 그ㅁㅁㅁㅁㅁ 사ㅁ 것ㅁㅁ. 이ㅁ 내ㅁ 육ㅁ 가ㅁㅁ 사ㅁ 것ㅁ 나ㅁ 사ㅁㅁㅁ 나ㅁ 위ㅁㅁ 자ㅁ 몸ㅁ 버ㅁㅁ 하ㅁㅁㅁ 아ㅁㅁ 믿ㅁ 믿ㅁㅁㅁㅁ 사ㅁ 것ㅁㅁ.</string>
+    <string name="t_A2z">ㅁㅁ.ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁㅁ, ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ.</string>
+
+    <string name="t_Ab">그리스도께 순종</string>
+    <string name="t_A3t">로마서 12:1</string>
+    <string name="t_A3c">그러므로 형제들아, 내가 하나님의 모든 자비하심으로 너희를 권하노니, 너희 몸을 하나님이 기뻐하시는 거룩한 산제사로 드리라. 이는 너희의 드릴 영적 예배니라.</string>
+    <string name="t_A3h">그ㅁㅁㅁ 형ㅁㅁㅁ, 내ㅁ 하ㅁㅁㅁ 모든 자ㅁㅁㅁㅁㅁ 너ㅁㅁ 권ㅁㅁㅁ, 너ㅁ 몸ㅁ 하ㅁㅁㅁ 기ㅁㅁㅁㅁ 거ㅁㅁ 산ㅁㅁㅁ 드ㅁㅁ. 이ㅁ 너ㅁㅁ 드ㅁ 영ㅁ 예ㅁㅁㅁ.</string>
+    <string name="t_A3z">ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ. ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_A4t">요한복음 14:21</string>
+    <string name="t_A4c">나의 계명을 가지고 지키는 자라야 나를 사랑하는 자니, 나를 사랑하는 자는 내 아버지께 사랑을 받을 것이요 나도 그를 사랑하여 그에게 나를 나타내리라.</string>
+    <string name="t_A4h">나의 계명을 가지고 지키는 자라야 나를 사랑하는 자니, 나를 사랑하는 자는 내 아버지께 사랑을 받을 것이요 나도 그를 사랑하여 그에게 나를 나타내리라.</string>
+    <string name="t_A4z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ, ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ac">말씀</string>
+    <string name="t_A5t">디모데후서 3:16</string>
+    <string name="t_A5c">모든 성경은 하나님의 감동으로 된 것으로, 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니.</string>
+    <string name="t_A5h">모ㅁ 성ㅁㅁ 하ㅁㅁㅁ 감ㅁㅁㅁ 된 것ㅁㅁ, 교ㅁㅁ 책ㅁㅁ 바ㅁㅁ 함ㅁ 의ㅁ 교ㅁㅁㅁㅁ 유ㅁㅁㅁ.</string>
+    <string name="t_A5z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ, ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_A6t">여호수아 1:8</string>
+    <string name="t_A6c">이 율법책을 네 입에서 떠나지 말게 하며 주야로 그것을 묵상하여 그 가운데 기록한 대로 다 지켜 행하라. 그리하면 네 길이 평탄하게 될 것이라. 네가 형통하리라.</string>
+    <string name="t_A6h">이 율ㅁㅁㅁ 네 입ㅁㅁ 떠ㅁㅁ 말ㅁ 하ㅁ 주ㅁㅁ 그ㅁㅁ 묵ㅁㅁㅁ 그 가ㅁㅁ 기ㅁㅁ 대ㅁ 다 지ㅁ 행ㅁㅁ. 그ㅁㅁㅁ 네 길ㅁ 평ㅁㅁㅁ 될 것ㅁㅁ. 네ㅁ 형ㅁㅁㅁㅁ.</string>
+    <string name="t_A6z">ㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ. ㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ. ㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ad">기도</string>
+    <string name="t_A7t">요한복음 15:7</string>
+    <string name="t_A7c">너희가 내안에 거하고 내 말이 너희 안에 거하면 무엇이든지 원하는 대로 구하라. 그리하면 이루리라.</string>
+    <string name="t_A7h">너ㅁㅁ 내ㅁㅁ 거ㅁㅁ 내 말ㅁ 너ㅁ 안ㅁ 거ㅁㅁ 무ㅁㅁㅁㅁ 원ㅁㅁ 대ㅁ 구ㅁㅁ. 그ㅁㅁㅁ 이ㅁㅁㅁ.</string>
+    <string name="t_A7z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_A8t">빌립보서 4:6,7</string>
+    <string name="t_A8c">아무것도 염려하지 말고 오직 모든 일에 기도와 간구로 너희 구할 것을 감사함으로 하나님께 아뢰라. 그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라.</string>
+    <string name="t_A8h">아ㅁㅁㅁ 염ㅁㅁㅁ 말ㅁ 오ㅁ 모ㅁ 일ㅁ 기ㅁㅁ 간ㅁㅁ 너ㅁ 구ㅁ 것ㅁ 감ㅁㅁㅁㅁ 하ㅁㅁㅁ 아ㅁㅁ. 그ㅁㅁㅁ 모ㅁ 지ㅁㅁ 뛰ㅁㅁ 하ㅁㅁㅁ 평ㅁㅁ 그ㅁㅁㅁ 예ㅁ 안ㅁㅁ 너ㅁ 마ㅁㅁ 생ㅁㅁ 지ㅁㅁㅁㅁ.</string>
+    <string name="t_A8z">ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ae">교제</string>
+    <string name="t_A9t">마태복음 18:20</string>
+    <string name="t_A9c">두세 사람이 내이름으로 모인 곳에는 나도 그들 중에 있느니라.</string>
+    <string name="t_A9h">두ㅁ 사ㅁㅁ 내ㅁㅁㅁㅁ 모ㅁ 곳ㅁㅁ 나ㅁ 그ㅁ 중ㅁ 있ㅁㅁㅁ.</string>
+    <string name="t_A9z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_A10t">히브리서 10:24,25</string>
+    <string name="t_A10c">서로 돌아보아 사랑과 선행을 격려하며, 모이기를 폐하는 어떤 사람들의 습관과 같이 하지말고, 오직 권하여 그날이 가까움을 볼수록 더욱 그리하자.</string>
+    <string name="t_A10h">서ㅁ 돌ㅁㅁㅁ 사ㅁㅁ 선ㅁㅁ 격ㅁㅁㅁ, 모ㅁㅁㅁ 폐ㅁㅁ 어ㅁ 사ㅁㅁㅁ 습ㅁㅁ 같ㅁ 하ㅁㅁㅁ, 오ㅁ 권ㅁㅁ 그ㅁㅁ 가ㅁㅁㅁ 볼ㅁㅁ 더ㅁ 그ㅁㅁㅁ.</string>
+    <string name="t_A10z">ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Af">증거</string>
+    <string name="t_A11t">마태복음 4:19</string>
+    <string name="t_A11c">말씀하시되, 나를 따라오너라 내가 너희로 사람을 낚는 어부가 되게 하리라 하시니.</string>
+    <string name="t_A11h">말ㅁㅁㅁㅁ, 나ㅁ 따ㅁㅁㅁㅁ 내ㅁ 너ㅁㅁ 사ㅁㅁ 낚ㅁ 어ㅁㅁ 되ㅁ 하ㅁㅁ 하ㅁㅁ.</string>
+    <string name="t_A11z">ㅁㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ.</string>
+    <string name="t_A12t">로마서 1:16</string>
+    <string name="t_A12c">내가 복음을 부끄러워하지 아니하노니, 이복음은 모든 믿는 자에게 구원을 주시는 하나님의 능력이 됨이라. 첫째는 유대인에게요 또한 헬라인에게로다.</string>
+    <string name="t_A12h">내ㅁ 복ㅁㅁ 부ㅁㅁㅁㅁㅁ 아ㅁㅁㅁㅁ, 이ㅁㅁㅁ 모ㅁ 믿ㅁ 자ㅁㅁ 구ㅁㅁ 주ㅁㅁ 하ㅁㅁㅁ 능ㅁㅁ 됨ㅁㅁ. 첫ㅁㅁ 유ㅁㅁㅁㅁㅁ 또ㅁ 헬ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_A12z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ. ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ba">모든 사람이 죄를 범함</string>
+    <string name="t_B1t">로마서 3:23</string>
+    <string name="t_B1c">모든 사람이 죄를 범하였으매 하나님의 영광에 이르지 못하더니.</string>
+    <string name="t_B1h">모ㅁ 사ㅁㅁ 죄ㅁ 범ㅁㅁㅁㅁ 하ㅁㅁㅁ 영ㅁㅁ 이ㅁㅁ 못ㅁㅁㅁ.</string>
+    <string name="t_B1z">ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_B2t">이사야 53:6</string>
+    <string name="t_B2c">우리는 다 양 같아서 그릇 행하여 각기 제 길로 갔거늘, 여호와께서는 우리 무리의 죄악을 그에게 담당시키셨도다.</string>
+    <string name="t_B2h">우ㅁㅁ 다 양 같ㅁㅁ 그ㅁ 행ㅁㅁ 각ㅁ 제 길ㅁ 갔ㅁㅁ, 여ㅁㅁㅁㅁㅁ 우ㅁ 무ㅁㅁ 죄ㅁㅁ 그ㅁㅁ 담ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_B2z">ㅁㅁㅁ ㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ, ㅁㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Bb">죄의 형벌</string>
+    <string name="t_B3t">로마서 6:23</string>
+    <string name="t_B3c">죄의 삯은 사망이요, 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라.</string>
+    <string name="t_B3h">죄ㅁ 삯ㅁ 사ㅁㅁㅁ, 하ㅁㅁㅁ 은ㅁㅁ 그ㅁㅁㅁ 예ㅁ 우ㅁ 주 안ㅁ 있ㅁ 영ㅁㅁㅁㅁ.</string>
+    <string name="t_B3z">ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+    <string name="t_B4t">히브리서 9:27</string>
+    <string name="t_B4c">한 번 죽는 것은 사람에게 정하신 것이요, 그 후에는 심판이 있으리니.</string>
+    <string name="t_B4h">한 번 죽ㅁ 것ㅁ 사ㅁㅁㅁ 정ㅁㅁ 것ㅁㅁ, 그 후ㅁㅁ 심ㅁㅁ 있ㅁㅁㅁ.</string>
+    <string name="t_B4z">ㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ, ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Bc">그리스도가 형벌을 받음</string>
+    <string name="t_B5t">로마서 5:8</string>
+    <string name="t_B5c">우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로 하나님께서 우리에게 대한 자기의 사람을 확증하셨느니라.</string>
+    <string name="t_B5h">우ㅁㅁ 아ㅁ 죄ㅁ 되ㅁㅁ 때ㅁ 그ㅁㅁㅁㅁㅁ 우ㅁㅁ 위ㅁㅁ 죽ㅁㅁㅁㅁ 하ㅁㅁㅁㅁ 우ㅁㅁㅁ 대ㅁ 자ㅁㅁ 사ㅁㅁ 확ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_B5z">ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_B6t">베드로전서 3:18</string>
+    <string name="t_B6c">그리스도께서도 한 번 죄를 위하여 죽으사 의인으로서 불의한 자를 대신하셨으니, 이는 우리를 하나님 앞으로 인도하려 하심이라. 육체로는 죽임을 당하시고 영으로는 살리심을 받으셨으니.</string>
+    <string name="t_B6h">그ㅁㅁㅁㅁㅁㅁ 한 번 죄ㅁ 위ㅁㅁ 죽ㅁㅁ 의ㅁㅁㅁㅁ 불ㅁㅁ 자ㅁ 대ㅁㅁㅁㅁㅁ, 이ㅁ 우ㅁㅁ 하ㅁㅁ 앞ㅁㅁ 인ㅁㅁㅁ 하ㅁㅁㅁ. 육ㅁㅁㅁ 죽ㅁㅁ 당ㅁㅁㅁ 영ㅁㅁㅁ 살ㅁㅁㅁ 받ㅁㅁㅁㅁ.</string>
+    <string name="t_B6z">ㅁㅁㅁㅁㅁㅁㅁ ㅁ ㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Bd">선행으로 구원받지 못함</string>
+    <string name="t_B7t">에베소서 2:8,9</string>
+    <string name="t_B7c">너희가 그 은혜를 인하여 믿음으로 말미암아 구원을 얻었나니, 이것이 너희에게서 난 것이 아니요 하나님의 선물이라. 행위에서 난 것이 아니니, 이는 누구든지 자랑치 못하게 함이니라.</string>
+    <string name="t_B7h">너ㅁㅁ 그 은ㅁㅁ 인ㅁㅁ 믿ㅁㅁㅁ 말ㅁㅁㅁ 구ㅁㅁ 얻ㅁㅁㅁ, 이ㅁㅁ 너ㅁㅁㅁㅁ 난 것ㅁ 아ㅁㅁ 하ㅁㅁㅁ 선ㅁㅁㅁ. 행ㅁㅁㅁ 난 것ㅁ 아ㅁㅁ, 이ㅁ 누ㅁㅁㅁ 자ㅁㅁ못ㅁㅁ 함ㅁㅁㅁ.</string>
+    <string name="t_B7z">ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ, ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_B8t">디도서 3:5</string>
+    <string name="t_B8c">우리를 구원하시되 우리의 행한바 의로운 행위로 말미암지 아니하고, 오직 그의 긍휼하심을 좇아 중생의 씻음과 성령의 새롭게 하심으로 하셨나니.</string>
+    <string name="t_B8h">우ㅁㅁ 구ㅁㅁㅁㅁ 우ㅁㅁ 행ㅁㅁ 의ㅁㅁ 행ㅁㅁ 말ㅁㅁㅁ 아ㅁㅁㅁ, 오ㅁ 그ㅁ 긍ㅁㅁㅁㅁ 좇ㅁ 중ㅁㅁ 씻ㅁㅁ 성ㅁㅁ 새ㅁㅁ 하ㅁㅁㅁ 하ㅁㅁㅁ.</string>
+    <string name="t_B8z">ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Be">그리스도를 모셔야 함</string>
+    <string name="t_B9t">요한복음 1:12</string>
+    <string name="t_B9c">영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니.</string>
+    <string name="t_B9h">영ㅁㅁㅁ 자 곧 그 이ㅁㅁ 믿ㅁ 자ㅁㅁㅁㅁ 하ㅁㅁㅁ 자ㅁㅁ 되ㅁ 권ㅁㅁ 주ㅁㅁㅁ.</string>
+    <string name="t_B9z">ㅁㅁㅁㅁ ㅁ ㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_B10t">요한계시록 3:20</string>
+    <string name="t_B10c">볼지어다. 내가 문밖에 서서 두드리노니, 누구든지 내 음성을 듣고 문을 열면 내가 그에게로 들어가 그로 더불어 먹고 그는 나로 더불어 먹으리라.</string>
+    <string name="t_B10h">볼ㅁㅁㅁ. 내ㅁ 문ㅁㅁ 서ㅁ 두ㅁㅁㅁㅁ, 누ㅁㅁㅁ 내 음ㅁㅁ 듣ㅁ 문ㅁ 열ㅁ 내ㅁ 그ㅁㅁㅁ 들ㅁㅁ 그ㅁ 더ㅁㅁ 먹ㅁ 그ㅁ 나ㅁ 더ㅁㅁ 먹ㅁㅁㅁ.</string>
+    <string name="t_B10z">ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Bf">구원의 확신</string>
+    <string name="t_B11t">요한일서 5:13</string>
+    <string name="t_B11c">내가 하나님의 아들의 이름을 믿는 너희에게 이것을 쓴 것은, 너희로 하여금 너희에게 영생이 있음을 알게 하려 함이라.</string>
+    <string name="t_B11h">내ㅁ 하ㅁㅁㅁ 아ㅁㅁ 이ㅁㅁ 믿ㅁ 너ㅁㅁㅁ 이ㅁㅁ 쓴 것ㅁ, 너ㅁㅁ 하ㅁㅁ 너ㅁㅁㅁ 영ㅁㅁ 있ㅁㅁ 알ㅁ 하ㅁ 함ㅁㅁ.</string>
+    <string name="t_B11z">ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁ, ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ.</string>
+    <string name="t_B12t">요한복음 5:24</string>
+    <string name="t_B12c">내가 진실로 진실로 너희에게 이르노니, 내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라.</string>
+    <string name="t_B12h">내ㅁ 진ㅁㅁ 진ㅁㅁ 너ㅁㅁㅁ 이ㅁㅁㅁ, 내 말ㅁ 듣ㅁ 또 나 보ㅁㅁ 이ㅁ 믿ㅁ 자ㅁ 영ㅁㅁ 얻ㅁㅁ 심ㅁㅁ 이ㅁㅁ 아ㅁㅁㅁㅁ 사ㅁㅁㅁ 생ㅁㅁㅁ 옮ㅁㅁㅁㅁ.</string>
+    <string name="t_B12z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁ ㅁㅁ ㅁㅁ ㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ca">성령 </string>
+    <string name="t_C1t">고린도전서 3:16 </string>
+    <string name="t_C1c">너희가 하나님의 성전인 것과 하나님의 성령이 너희 안에 거하시는 것을 알지 못하느뇨.</string>
+    <string name="t_C1h">너ㅁㅁ 하ㅁㅁㅁ 성ㅁㅁ 것ㅁ 하ㅁㅁㅁ 성ㅁㅁ 너ㅁ 안ㅁ 거ㅁㅁㅁ 것ㅁ 알ㅁ 못ㅁㅁㅁ.</string>
+    <string name="t_C1z">ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_C2t">고린도전서 2:12 </string>
+    <string name="t_C2c">우리가 세상의 영을 받지 아니하고 오직 하나님께로 온 영을 받았으니, 이는 우리로 하여금 하나님께서 우리에게 은혜로 주신 것들을 알게 하려 하심이라.</string>
+    <string name="t_C2h">우ㅁㅁ 세ㅁㅁ 영ㅁ 받ㅁ 아ㅁㅁㅁ 오ㅁ 하ㅁㅁㅁㅁ 온 영ㅁ 받ㅁㅁㅁ, 이ㅁ 우ㅁㅁ 하ㅁㅁ 하ㅁㅁㅁㅁ 우ㅁㅁㅁ 은ㅁㅁ 주ㅁ 것ㅁㅁ 알ㅁ 하ㅁ 하ㅁㅁㅁ.</string>
+    <string name="t_C2z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Cb">능력</string>
+    <string name="t_C3t">이사야 41:10</string>
+    <string name="t_C3c">두려워 말라. 내가 너와 함께함이니라. 놀라지 말라. 나는 네 하나님이 됨이니라. 내가 너를 굳세게 하리라. 참으로 너를 도와주리라. 참으로 나의 의로운 오른손으로 너를 붙들리라.</string>
+    <string name="t_C3h">두ㅁㅁ 말ㅁ. 내ㅁ 너ㅁ 함ㅁㅁㅁㅁㅁ. 놀ㅁㅁ 말ㅁ. 나ㅁ 네 하ㅁㅁㅁ 됨ㅁㅁㅁ. 내ㅁ 너ㅁ 굳ㅁㅁ 하ㅁㅁ. 참ㅁㅁ 너ㅁ 도ㅁㅁㅁㅁ. 참ㅁㅁ 나ㅁ 의ㅁㅁ 오ㅁㅁㅁㅁ 너ㅁ 붙ㅁㅁㅁ.</string>
+    <string name="t_C3z">ㅁㅁㅁ ㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ. ㅁㅁㅁ ㅁㅁ. ㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ. ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ. ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_C4t">빌립보서 4:13</string>
+    <string name="t_C4c">내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라.</string>
+    <string name="t_C4h">내ㅁ 능ㅁ 주ㅁㅁ 자 안ㅁㅁ 내ㅁ 모ㅁ 것ㅁ 할 수 있ㅁㅁㅁ.</string>
+    <string name="t_C4z">ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁ ㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Cc">성실</string>
+    <string name="t_C5t">예레미야애가 3:22,23</string>
+    <string name="t_C5c">여호와의 자비와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다. 이것이 아침마다 새로우니 주의 성실이 크도소이다.</string>
+    <string name="t_C5h">여ㅁㅁㅁ 자ㅁㅁ 긍ㅁㅁ 무ㅁㅁㅁㅁㅁ 우ㅁㅁ 진ㅁㅁㅁ 아ㅁㅁㅁㅁㅁㅁ. 이ㅁㅁ 아ㅁㅁㅁ 새ㅁㅁㅁ 주ㅁ 성ㅁㅁ 크ㅁㅁㅁㅁ.</string>
+    <string name="t_C5z">ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ. ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C6t">민수기 23:19 </string>
+    <string name="t_C6c">하나님은 인생이 아니시니 식언치 않으시고 인자가 아니시니 후회가 없으시도다. 어찌 그 말씀하신 바를 행치 않으시며 하신 말씀을 실행치 않으시랴.</string>
+    <string name="t_C6h">하ㅁㅁㅁ 인ㅁㅁ 아ㅁㅁㅁ 식ㅁㅁ 않ㅁㅁㅁ 인ㅁㅁ 아ㅁㅁㅁ 후ㅁㅁ 없ㅁㅁㅁㅁ. 어ㅁ 그 말ㅁㅁㅁ 바ㅁ 행ㅁ 않ㅁㅁㅁ 하ㅁ 말ㅁㅁ 실ㅁㅁ 않ㅁㅁㅁ.</string>
+    <string name="t_C6z">ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ. ㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Cd">평안</string>
+    <string name="t_C7t">이사야 26:3</string>
+    <string name="t_C7c">주께서 심지가 견고한 자를 평강에 평강으로 지키시리니, 이는 그가 주를 의뢰함이니이다.</string>
+    <string name="t_C7h">주ㅁㅁ 심ㅁㅁ 견ㅁㅁ 자ㅁ 평ㅁㅁ 평ㅁㅁㅁ 지ㅁㅁㅁㅁ, 이ㅁ 그ㅁ 주ㅁ 의ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C7z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ, ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C8t">베드로전서 5:7</string>
+    <string name="t_C8c">너희 염려를 다 주께 맡겨 버리라. 이는 저가 너희를 권고하심이니라.</string>
+    <string name="t_C8h">너ㅁ 염ㅁㅁ 다 주ㅁ 맡ㅁ 버ㅁㅁ. 이ㅁ 저ㅁ 너ㅁㅁ 권ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C8z">ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ce">공급</string>
+    <string name="t_C9t">로마서 8:32</string>
+    <string name="t_C9c">자기 아들을 아끼지 아시하니고 우리 모든 사람을 위하여 내어 주신 이가 어찌 그 아들과 함께 모든 것을 우리에게 은사로 주지 아니하시겠느뇨.</string>
+    <string name="t_C9h">자ㅁ 아ㅁㅁ 아ㅁㅁ 아ㅁㅁㅁㅁ 우ㅁ 모ㅁ 사ㅁㅁ 위ㅁㅁ 내ㅁ 주ㅁ 이ㅁ 어ㅁ 그 아ㅁㅁ 함ㅁ 모ㅁ 것ㅁ 우ㅁㅁㅁ 은ㅁㅁ 주ㅁ 아ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C9z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C10t">빌립보서 4:19</string>
+    <string name="t_C10c">나의 하나님이 그리스도 예수 안에서 영광 가운데 그 풍성한 대로 너희 쓸 것을 채우시리라. </string>
+    <string name="t_C10h">나ㅁ 하ㅁㅁㅁ 그ㅁㅁㅁ 예ㅁ 안ㅁㅁ 영ㅁ 가ㅁㅁ 그 풍ㅁㅁ 대ㅁ 너ㅁ 쓸 것ㅁ 채ㅁㅁㅁㅁ. </string>
+    <string name="t_C10z">ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁㅁㅁ. </string>
+
+    <string name="t_Cf">유혹에서 도우심</string>
+    <string name="t_C11t">히브리서 2:18</string>
+    <string name="t_C11c">자기가 시험을 받아 고난을 당하셨은즉 시험받는 자들을 능히 도우시느니라.</string>
+    <string name="t_C11h">자ㅁㅁ 시ㅁㅁ 받ㅁ 고ㅁㅁ 당ㅁㅁㅁㅁ 시ㅁㅁㅁ 자ㅁㅁ 능ㅁ 도ㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C11z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_C12t">시편 119:9,11</string>
+    <string name="t_C12c">청년이 무엇으로 그 행실을 깨끗케 하리이까. 주의 말씀을 따라 삼갈 것이니이다. 내가 주께 범죄치 아니하려 하여 주의 말씀을 내 마음에 두었나이다.</string>
+    <string name="t_C12h">청ㅁㅁ 무ㅁㅁㅁ 그 행ㅁㅁ 깨ㅁㅁ 하ㅁㅁㅁ. 주ㅁ 말ㅁㅁ 따ㅁ 삼ㅁ 것ㅁㅁㅁㅁ. 내ㅁ 주ㅁ 범ㅁㅁ 아ㅁㅁㅁ 하ㅁ 주ㅁ 말ㅁㅁ 내 마ㅁㅁ 두ㅁㅁㅁㅁ.</string>
+    <string name="t_C12z">ㅁㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Da">그리스도를 첫자리에 모심</string>
+    <string name="t_D1t">마태복음 6:33</string>
+    <string name="t_D1c">너희는 먼저 그의 나라와 그의 의를 구하라. 그리하면 이 모든 것을 너희에게 더하시리라.</string>
+    <string name="t_D1h">너ㅁㅁ 먼ㅁ 그ㅁ 나ㅁㅁ 그ㅁ 의ㅁ 구ㅁㅁ. 그ㅁㅁㅁ 이 모ㅁ 것ㅁ 너ㅁㅁㅁ 더ㅁㅁㅁㅁ.</string>
+    <string name="t_D1z">ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ. ㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+    <string name="t_D2t">누가복음 9:23</string>
+    <string name="t_D2c">또 무리에게 이르시되, 아무든지 나를 따라오려거든 자기를 부인하고 날마다 제 십자가를 지고 나를 좇을 것이니라.</string>
+    <string name="t_D2h">또 무ㅁㅁㅁ 이ㅁㅁㅁ, 아ㅁㅁㅁ 나ㅁ 따ㅁㅁㅁㅁㅁ 자ㅁㅁ 부ㅁㅁㅁ 날ㅁㅁ 제 십ㅁㅁㅁ 지ㅁ 나ㅁ 좇ㅁ 것ㅁㅁㅁ.</string>
+    <string name="t_D2z">ㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Db">죄에서 떠남</string>
+    <string name="t_D3t">요한일서 2:15,16</string>
+    <string name="t_D3c">이 세상이나 세상에 있는 것들을 사랑치 말라. 누구든지 세상을 사랑하면 아버지의 사랑이 그 속에 있지 아니하니, 이는 세상에 있는 모든 것이 육신의 정욕과 안목의 정욕과 이생의 자랑이니, 다 아버지께로 좇아 온 것이 아니요 세상으로 좇아 온 것이라.</string>
+    <string name="t_D3h">이 세ㅁㅁㅁ 세ㅁㅁ 있ㅁ 것ㅁㅁ 사ㅁㅁ 말ㅁ. 누ㅁㅁㅁ 세ㅁㅁ 사ㅁㅁㅁ 아ㅁㅁㅁ 사ㅁㅁ 그 ㅁㅁ 있ㅁ 아ㅁㅁㅁ, 이ㅁ 세ㅁㅁ 있ㅁ 모ㅁ 것ㅁ 육ㅁㅁ 정ㅁㅁ 안ㅁㅁ 정ㅁㅁ 이ㅁㅁ 자ㅁㅁㅁ, 다 아ㅁㅁㅁㅁ 좇ㅁ 온 것ㅁ 아ㅁㅁ 세ㅁㅁㅁ 좇ㅁ 온 것ㅁㅁ.</string>
+    <string name="t_D3z">ㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ, ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ, ㅁ ㅁㅁㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ.</string>
+    <string name="t_D4t">로마서 12:2</string>
+    <string name="t_D4c">너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라.</string>
+    <string name="t_D4h">너ㅁㅁ 이 세ㅁㅁ 본ㅁㅁ 말ㅁ 오ㅁ 마ㅁㅁ 새ㅁㅁ 함ㅁㅁ 변ㅁㅁ 받ㅁ 하ㅁㅁㅁ 선ㅁㅁㅁ 기ㅁㅁㅁㅁ 온ㅁㅁㅁ 뜻ㅁ 무ㅁㅁㅁ 분ㅁㅁㅁㅁ 하ㅁ.</string>
+    <string name="t_D4z">ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ.</string>
+
+    <string name="t_Dc">견고함</string>
+    <string name="t_D5t">고린도전서 15:58</string>
+    <string name="t_D5c">그러므로 내 사랑하는 형제들아, 견고하며 흔들리지 말며 항상 주의 일에 더욱 힘쓰는 자들이 되라. 이는 너희 수고가 주 안에서 헛되지 않은 줄을 앎이니라.</string>
+    <string name="t_D5h">그ㅁㅁㅁ 내 사ㅁㅁㅁ 형ㅁㅁㅁ, 견ㅁㅁㅁ 흔ㅁㅁㅁ 말ㅁ 항ㅁ 주ㅁ 일ㅁ 더ㅁ 힘ㅁㅁ 자ㅁㅁ 되ㅁ. 이ㅁ 너ㅁ 수ㅁㅁ 주 안ㅁㅁ 헛ㅁㅁ 않ㅁ 줄ㅁ 앎ㅁㅁㅁ.</string>
+    <string name="t_D5z">ㅁㅁㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_D6t">히브리서 12:3</string>
+    <string name="t_D6c">너희가 피곤하여 낙심치 않기 위하여 죄인들의 이같이 자기에게 거역한 일을 참으신자를 생각하라.</string>
+    <string name="t_D6h">너ㅁㅁ 피ㅁㅁㅁ 낙ㅁㅁ 않ㅁ 위ㅁㅁ 죄ㅁㅁㅁ 이ㅁㅁ 자ㅁㅁㅁ 거ㅁㅁ 일ㅁ 참ㅁㅁㅁㅁ 생ㅁㅁㅁ.</string>
+    <string name="t_D6z">ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Dd">다른 사람을 섬김</string>
+    <string name="t_D7t">마가복음 10:45 </string>
+    <string name="t_D7c">인자의 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 하고 자기 목숨을 많은 사람의 대속물로 주려 함이니라.</string>
+    <string name="t_D7h">인ㅁㅁ 온 것ㅁ 섬ㅁㅁ 받ㅁㅁ 함ㅁ 아ㅁㅁ 도ㅁㅁ 섬ㅁㅁ 하ㅁ 자ㅁ 목ㅁㅁ 많ㅁ 사ㅁㅁ 대ㅁㅁㅁ 주ㅁ 함ㅁㅁㅁ.</string>
+    <string name="t_D7z">ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_D8t">고린도후서 4:5</string>
+    <string name="t_D8c">우리가 우리를 전파하는 것이 아니라 오직 그리스도 예수의 주 되신 것과 또 예수를 위하여 우리가 너희의 종 된 것을 전파함이라.</string>
+    <string name="t_D8h">우ㅁㅁ 우ㅁㅁ 전ㅁㅁㅁ 것ㅁ 아ㅁㅁ 오ㅁ 그ㅁㅁㅁ 예ㅁㅁ 주 되ㅁ 것ㅁ 또 예ㅁㅁ 위ㅁㅁ 우ㅁㅁ 너ㅁㅁ 종 된 것ㅁ 전ㅁㅁㅁㅁ.</string>
+    <string name="t_D8z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁ ㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_De">후히 드릴 것</string>
+    <string name="t_D9t">잠언 3:9,10</string>
+    <string name="t_D9c">네 재물과 네 소산물의 처음 익은 열매로 여호와를 공경하라. 그리하면 네 창고가 가득히 차고 네 즙틀에 새 포도즙이 넘치리라.</string>
+    <string name="t_D9h">네 재ㅁㅁ 네 소ㅁㅁㅁ 처ㅁ 익ㅁ 열ㅁㅁ 여ㅁㅁㅁ 공ㅁㅁㅁ. 그ㅁㅁㅁ 네 창ㅁㅁ 가ㅁㅁ 차ㅁ 네 즙ㅁㅁ 새 포ㅁㅁㅁ 넘ㅁㅁㅁ.</string>
+    <string name="t_D9z">ㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_D10t">고린도후서 9:6,7</string>
+    <string name="t_D10c">이것이 곧 적게 심는 자는 적게 거두고 많이 심는 자는 많이 거둔다 하는 말이로다. 각각 그 마음에 정한 대로 할 것이요 인색함으로나 억지로 하지 말지니 하나님은 즐겨 내는 자를 사랑하시느니라.</string>
+    <string name="t_D10h">이ㅁㅁ 곧 적ㅁ 심ㅁ 자ㅁ 적ㅁ 거ㅁㅁ 많ㅁ 심ㅁ 자ㅁ 많ㅁ 거ㅁㅁ 하ㅁ 말ㅁㅁㅁ. 각ㅁ 그 마ㅁㅁ 정ㅁ 대ㅁ 할 것ㅁㅁ 인ㅁㅁㅁㅁㅁ 억ㅁㅁ 하ㅁ 말ㅁㅁ 하ㅁㅁㅁ 즐ㅁ 내ㅁ 자ㅁ 사ㅁㅁㅁㅁㅁㅁ.</string>
+    <string name="t_D10z">ㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ. ㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Df">세계 비전</string>
+    <string name="t_D11t">사도행전 1:8</string>
+    <string name="t_D11c">오직 성령이 너희에게 임하시면 너희가 권능을 받고 예루살렘과 온 유대와 사마리아와 땅 끝까지 이르러 내 증인이 되리라 하시니라.</string>
+    <string name="t_D11h">오ㅁ 성ㅁㅁ 너ㅁㅁㅁ 임ㅁㅁㅁ 너ㅁㅁ 권ㅁㅁ 받ㅁ 예ㅁㅁㅁㅁ 온 유ㅁㅁ 사ㅁㅁㅁㅁ 땅 끝ㅁㅁ 이ㅁㅁ 내 증ㅁㅁ 되ㅁㅁ 하ㅁㅁㅁ.</string>
+    <string name="t_D11z">ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_D12t">마태복음 28:19,20</string>
+    <string name="t_D12c">그러므로 너희는 가서 모든 족속으로 제자를 삼아 아버지와 아들과 성령의 이름으로 세례를 주고, 내가 너희에게 분부한 모든 것을 가르쳐 지키게 하라. 볼지어다. 내가 세상 끝 날까지 너희와 항상 함께 있으리라 하시니라.</string>
+    <string name="t_D12h">그ㅁㅁㅁ 너ㅁㅁ 가ㅁ 모ㅁ 족ㅁㅁㅁ 제ㅁㅁ 삼ㅁ 아ㅁㅁㅁ 아ㅁㅁ 성ㅁㅁ 이ㅁㅁㅁ 세ㅁㅁ 주ㅁ, 내ㅁ 너ㅁㅁㅁ 분ㅁㅁ 모ㅁ 것ㅁ 가ㅁㅁ 지ㅁㅁ 하ㅁ. 볼ㅁㅁㅁ. 내ㅁ 세ㅁ 끝 날ㅁㅁ 너ㅁㅁ 항ㅁ 함ㅁ 있ㅁㅁㅁ 하ㅁㅁㅁ.</string>
+    <string name="t_D12z">ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ, ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ. ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ea">사랑</string>
+    <string name="t_E1t">요한복음 13:34,35</string>
+    <string name="t_E1c">새 계명을 너희에게 주노니 서로 사랑하라. 내가 너희를 사랑한 것같이 너희도 서로 사랑하라. 너희가 서로 사랑하면 이로써 모든 사람이 너희가 내 제자인 줄 알리라.</string>
+    <string name="t_E1h">새 계ㅁㅁ 너ㅁㅁㅁ 주ㅁㅁ 서ㅁ 사ㅁㅁㅁ. 내ㅁ 너ㅁㅁ 사ㅁㅁ 것ㅁㅁ 너ㅁㅁ 서ㅁ 사ㅁㅁㅁ. 너ㅁㅁ 서ㅁ 사ㅁㅁㅁ 이ㅁㅁ 모ㅁ 사ㅁㅁ 너ㅁㅁ 내 제ㅁㅁ 줄 알ㅁㅁ.</string>
+    <string name="t_E1z">ㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ. ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ.</string>
+    <string name="t_E2t">요한일서 3:18</string>
+    <string name="t_E2c">자녀들아, 우리가 말과 혀로만 사랑하지 말고 오직 행함과 진실함으로 하자.</string>
+    <string name="t_E2h">자ㅁㅁㅁ, 우ㅁㅁ 말ㅁ 혀ㅁㅁ 사ㅁㅁㅁ 말ㅁ 오ㅁ 행ㅁㅁ 진ㅁㅁㅁㅁ 하ㅁ.</string>
+    <string name="t_E2z">ㅁㅁㅁㅁ, ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ.</string>
+
+    <string name="t_Eb">겸손</string>
+    <string name="t_E3t">빌립보서 2:3,4</string>
+    <string name="t_E3c">아무 일에든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 각각 자기보다 남을 낫게 여기고, 각각 자기 일을 돌아볼 뿐더러 또한 각각 다른 사람들의 일을 돌아보아 나의 기쁨을 충만케 하라.</string>
+    <string name="t_E3h">아ㅁ 일ㅁㅁㅁ 다ㅁㅁㅁ 허ㅁㅁㅁ 하ㅁ 말ㅁ 오ㅁ 겸ㅁㅁ 마ㅁㅁㅁ 각ㅁ 자ㅁㅁㅁ 남ㅁ 낫ㅁ 여ㅁㅁ, 각ㅁ 자ㅁ 일ㅁ 돌ㅁㅁ 뿐ㅁㅁ 또ㅁ 각ㅁ 다ㅁ 사ㅁㅁㅁ 일ㅁ 돌ㅁㅁㅁ 나ㅁ 기ㅁㅁ 충ㅁㅁ 하ㅁ.</string>
+    <string name="t_E3z">ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ, ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ.</string>
+    <string name="t_E4t">베드로전서 5:5,6</string>
+    <string name="t_E4c">젊은 자들아, 이와 같이 장로들에게 순복하고 다 서로 겸손으로 허리를 동이라. 하나님이 교만한 자를 대적하시되 겸손한 자들에게는 은혜를 주시느니라. 그러므로 하나님의 능하신 손 아래서 겸손하라. 때가 되면 너희를 높이시리라.</string>
+    <string name="t_E4h">젊ㅁ 자ㅁㅁ, 이ㅁ 같ㅁ 장ㅁㅁㅁㅁ 순ㅁㅁㅁ 다 서ㅁ 겸ㅁㅁㅁ 허ㅁㅁ 동ㅁㅁ. 하ㅁㅁㅁ 교ㅁㅁ 자ㅁ 대ㅁㅁㅁㅁ 겸ㅁㅁ 자ㅁㅁㅁㅁ 은ㅁㅁ 주ㅁㅁㅁㅁ. 그ㅁㅁㅁ 하ㅁㅁㅁ 능ㅁㅁ 손 아ㅁㅁ 겸ㅁㅁㅁ. 때ㅁ 되ㅁ 너ㅁㅁ 높ㅁㅁㅁㅁ.</string>
+    <string name="t_E4z">ㅁㅁ ㅁㅁㅁ, ㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ec">순결</string>
+    <string name="t_E5t">에베소서 5:3</string>
+    <string name="t_E5c">음행과 온갖 더러운 것과 탐욕은 너희 중에서 그 이름이라도 부르지 말라. 이는 성도의 마땅한 바니라.</string>
+    <string name="t_E5h">음ㅁㅁ 온ㅁ 더ㅁㅁ 것ㅁ 탐ㅁㅁ 너ㅁ 중ㅁㅁ 그 이ㅁㅁㅁㅁ 부ㅁㅁ 말ㅁ. 이ㅁ 성ㅁㅁ 마ㅁㅁ 바ㅁㅁ.</string>
+    <string name="t_E5z">ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ. ㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ.</string>
+    <string name="t_E6t">베드로전서 2:11</string>
+    <string name="t_E6c">사랑하는 자들아, 나그네와 행인 같은 너희를 권하노니 영혼을 거스려 싸우는 육체의 정욕을 제어하라.</string>
+    <string name="t_E6h">사ㅁㅁㅁ 자ㅁㅁ, 나ㅁㅁㅁ 행ㅁ 같ㅁ 너ㅁㅁ 권ㅁㅁㅁ 영ㅁㅁ 거ㅁㅁ 싸ㅁㅁ 육ㅁㅁ 정ㅁㅁ 제ㅁㅁㅁ.</string>
+    <string name="t_E6z">ㅁㅁㅁㅁ ㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ed">정직</string>
+    <string name="t_E7t">레위기 19:11</string>
+    <string name="t_E7c">너희는 도적절하지 말며, 속이지 말며, 서로 거짓말하지 말며.</string>
+    <string name="t_E7h">너ㅁㅁ 도ㅁㅁㅁㅁ 말ㅁ, 속ㅁㅁ 말ㅁ, 서ㅁ 거ㅁㅁㅁㅁ 말ㅁ.</string>
+    <string name="t_E7z">ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ, ㅁㅁㅁ ㅁㅁ, ㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁ.</string>
+    <string name="t_E8t">사도행전 24:16</string>
+    <string name="t_E8c">이것을 인하여 나도 하나님과 사람을 대하여 항상 양심에 거리낌이 없기를 힘쓰노라.</string>
+    <string name="t_E8h">이ㅁㅁ 인ㅁㅁ 나ㅁ 하ㅁㅁㅁ 사ㅁㅁ 대ㅁㅁ 항ㅁ 양ㅁㅁ 거ㅁㅁㅁ 없ㅁㅁ 힘ㅁㅁㅁ.</string>
+    <string name="t_E8z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ee">믿음</string>
+    <string name="t_E9t">히브리서 11:6</string>
+    <string name="t_E9c">믿음이 없이는 기쁘시게 못하나니, 하나님께 나아가는 자는 반드시 그가 계신 것과 또한 그가 자기를 찾는 자들에게 상 주시는 이심을 믿어야 할지니라.</string>
+    <string name="t_E9h">믿ㅁㅁ 없ㅁㅁ 기ㅁㅁㅁ 못ㅁㅁㅁ, 하ㅁㅁㅁ 나ㅁㅁㅁ 자ㅁ 반ㅁㅁ 그ㅁ 계ㅁ 것ㅁ 또ㅁ 그ㅁ 자ㅁㅁ 찾ㅁ 자ㅁㅁㅁ 상 주ㅁㅁ 이ㅁㅁ 믿ㅁㅁ 할ㅁㅁㅁ.</string>
+    <string name="t_E9z">ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_E10t">로마서 4:20,21</string>
+    <string name="t_E10c">믿음이 없어 하나님의 약속을 의심치 않고, 믿음에 견고하여져서 하나님께 영광을 돌리며, 약속하신 그것을 또한 능히 이루실 줄을 확신하였으니.</string>
+    <string name="t_E10h">믿ㅁㅁ 없ㅁ 하ㅁㅁㅁ 약ㅁㅁ 의ㅁㅁ 않ㅁ, 믿ㅁㅁ 견ㅁㅁㅁㅁㅁ 하ㅁㅁㅁ 영ㅁㅁ 돌ㅁㅁ, 약ㅁㅁㅁ 그ㅁㅁ 또ㅁ 능ㅁ 이ㅁㅁ 줄ㅁ 확ㅁㅁㅁㅁㅁ.</string>
+    <string name="t_E10z">ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ, ㅁㅁㅁ ㅁㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ, ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁㅁㅁ.</string>
+
+    <string name="t_Ef">선행</string>
+    <string name="t_E11t">갈라디아서 6:9,10</string>
+    <string name="t_E11c">우리가 선을 행하되 낙심하지 말지니 피곤하지 아니하면 때가 이르매 거두리라. 그러므로 우리는 기회 있는대로 모든 이에게 착한 일을 하되 더욱 믿음의 가정들에게 할지니라.</string>
+    <string name="t_E11h">우ㅁㅁ 선ㅁ 행ㅁㅁ 낙ㅁㅁㅁ 말ㅁㅁ 피ㅁㅁㅁ 아ㅁㅁㅁ 때ㅁ 이ㅁㅁ 거ㅁㅁㅁ. 그ㅁㅁㅁ 우ㅁㅁ 기ㅁ 있ㅁㅁㅁ 모ㅁ 이ㅁㅁ 착ㅁ 일ㅁ 하ㅁ 더ㅁ 믿ㅁㅁ 가ㅁㅁㅁㅁ 할ㅁㅁㅁ.</string>
+    <string name="t_E11z">ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁ. ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁㅁㅁㅁ ㅁㅁㅁㅁ.</string>
+    <string name="t_E12t">마태복음 5:16</string>
+    <string name="t_E12c">이같이 너희 빛을 사람 앞에 비취게 하여 저희로 너희 착한 행실을 보고 하늘에 계신 너희 아버지께 영광을 돌리게 하라.</string>
+    <string name="t_E12h">이ㅁㅁ 너ㅁ 빛ㅁ 사ㅁ 앞ㅁ 비ㅁㅁ 하ㅁ 저ㅁㅁ 너ㅁ 착ㅁ 행ㅁㅁ 보ㅁ 하ㅁㅁ 계ㅁ 너ㅁ 아ㅁㅁㅁ 영ㅁㅁ 돌ㅁㅁ 하ㅁ.</string>
+    <string name="t_E12z">ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁㅁ ㅁㅁ ㅁㅁ ㅁㅁㅁㅁ ㅁㅁㅁ ㅁㅁㅁ ㅁㅁ.</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <style name="ButtonTextH">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>
+

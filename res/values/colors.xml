@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#C3FF68</color>
+    <color name="red">#F02311</color>
+    <color name="vanilla">#FFFFFF</color>
+    <color name="darkvanilla">#A1A1A1</color>
+    <color name="mint">#00F8FF</color>
+    <color name="darkmint">#00888C</color>
+    <color name="bridge">#EC0CFF</color>
+    <color name="darkbridge">#790683</color>
+    <color name="sunshine">#F5F4AC</color>
+    <color name="darksunshine">#B8AF03</color>
+    <color name="dahong">#FF6A00</color>
+    <color name="darkdahong">#8E3B00</color>
+    <color name="nam">#5305FF</color>
+    <color name="darknam">#290280</color>
+</resources>
